@@ -1,0 +1,28 @@
+.section_2 {
+    display: flex;
+    margin-left: 70px;
+    gap: 130px;
+    margin-top: 100px;
+    font-family: "Fraunces", serif;
+
+        .box {
+
+                img {
+                    width: 200px;
+                    margin-bottom: 10px;
+
+                }
+
+                h3 {
+                    font-family: 18px;
+                    width: 100px;
+                    margin-left: 50px;
+                }
+
+                p {
+                    font-size: 18px;
+                    width: 200px;
+                    margin-left: 30px;
+                }
+        }
+}

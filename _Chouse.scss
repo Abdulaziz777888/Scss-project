@@ -1,0 +1,62 @@
+.section_3 {
+    background-color: blue;
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+    position: relative;
+    border-radius: 10px;
+
+        .wrapper {
+            color: white;
+            padding-top: 30px;
+                h2 {
+                font-size: 46px;
+                margin-left: 400px;
+                }
+
+                .people {
+                width: 600px;
+                font-size: 23px;
+                margin-left: 250px;
+                }
+            
+                    .box {
+                    width: 200px;
+                    height: 250px;
+                    background-color: green;
+                    position: absolute;
+                    border-radius: 10px;
+                    padding: 10px 20px;
+
+                        img {
+                            margin-left: 50px;
+                        }
+
+                        h3 {
+                            width: 100px;
+                            margin-left: 40px;
+                        }
+
+                        p {
+                            width: 150px;
+                            margin-left: 10px;
+                        }
+                    
+                    }
+
+                    .box1 {
+                    top: 300px;
+                    left: 200px;
+                    }
+
+                    .box2 {
+                    left: 500px;
+                    top: 300px;
+                    }
+
+                    .box3 {
+                        left: 800px;
+                        top: 300px;
+                    }
+        }
+}
